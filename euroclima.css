@@ -131,6 +131,9 @@ body{
     .blank-text {
         margin-top: -200px !important;
     }
+    .more {
+        width:23%;
+    }
 }
 
 .blank1 .text p {
